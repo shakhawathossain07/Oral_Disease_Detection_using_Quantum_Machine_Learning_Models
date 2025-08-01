@@ -6,3 +6,8 @@ This experiment explores oral diseases identification using hybrid quantum-class
 
 Figure 1: A QCNN model used for classifying dental images consists of several convolution and pooling layers that
 reduce the dimensionality of data to classify images either as tooth discoloration or dental caries.
+
+<img width="572" height="311" alt="Structure of Layers HQCNN drawio" src="https://github.com/user-attachments/assets/d1187282-861c-44df-8bdc-0a0e9a5d2d23" />
+
+Figure 2: Two Qubit HQCNN model
+
