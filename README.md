@@ -50,6 +50,7 @@ Use real quantum hardware and improve real-time clinical diagnosis.
 
 ## Try it out
 
+[![Watch Demo](https://img.youtube.com/vi/amcMESB1q9s/0.jpg)](https://youtu.be/amcMESB1q9s)
+
 * GitHub Repo
-* [www.canva.com](http://www.canva.com)
-* [https://youtu.be/amcMESB1q9s?si=iFcmxzW\_BPS1HlZn](https://youtu.be/amcMESB1q9s?si=iFcmxzW_BPS1HlZn)
+* [https://www.canva.com](https://www.canva.com)
