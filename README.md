@@ -50,7 +50,7 @@ Use real quantum hardware and improve real-time clinical diagnosis.
 
 ## Try it out
 
-**(Video Demo for Judges)**
+Video Demo 
 [![Watch Demo](https://img.youtube.com/vi/amcMESB1q9s/0.jpg)](https://youtu.be/amcMESB1q9s)
 
 * GitHub Repo
