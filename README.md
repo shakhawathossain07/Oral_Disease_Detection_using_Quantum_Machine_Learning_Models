@@ -1,4 +1,4 @@
-# CQhack25-Oral Disease Detection using Quantum Machine Learning Models
+# CQhack25-Oral Disease Detection using Quantum Machine Learning Models 
 
 This experiment explores oral diseases identification using hybrid quantum-classical neural networks (HQCNN) and quantum convolutional neural networks (QCNN). We investigated the possibilities of quantum machine learning in processing complicated dental image data. A whole dataset of oral disease images was preprocessed to improve model generalization using data augmentation and class balancing methods, especially ADASYN. Incorporating principle component analysis (PCA) for dimensionality reduction and angle encoding for quantum state preparation, we created and compared HQCNN and QCNN architectures. Accuracy, F1-score, recall, precision, and AUROC were among the criteria used in the training and evaluation of the models. Our results show that with an accuracy of 88.73%, HQCNN exceeded QCNN in binary classification. With a top accuracy of 65.92% utilizing a 3-qubit architecture, HQCNN displayed decent performance for multi-class classification. This work opens the path by highlighting the possibility of quantum-enhanced machine learning for raising the accuracy and efficiency of oral disease diagnosis.
 
@@ -55,3 +55,8 @@ Use real quantum hardware and improve real-time clinical diagnosis.
 [![Watch Demo](https://img.youtube.com/vi/amcMESB1q9s/0.jpg)](https://youtu.be/amcMESB1q9s)
 
 * [https://www.canva.com](https://www.canva.com)
+
+CQhack25: A Quantum Computing Hackathon & Ideathon for Students
+Winner Best Ideathon (College Track)
+
+<img width="234" height="165" alt="image" src="https://github.com/user-attachments/assets/5adef791-95c9-4348-bf01-26a180f01460" />
